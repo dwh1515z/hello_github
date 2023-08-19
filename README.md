@@ -1,0 +1,2 @@
+# hello_github
+一个刚进GitHub的学OIER的萌新的第一个存储库
